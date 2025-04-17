@@ -9,9 +9,9 @@
 ## Game Captures
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMzQyNzQxMi8yMDc2NDUyNi5wbmc=/original/5s7LCz.png" alt="Kalimba Ranch Keeper Screenshot 2" width="322"/>
-  <img src="https://img.itch.zone/aW1hZ2UvMzQyNzQxMi8yMDc2NDUwMS5wbmc=/original/wmv2T3.png" alt="Kalimba Ranch Keeper Screenshot 1" width="232"/>
-  <img src="https://img.itch.zone/aW1hZ2UvMzQyNzQxMi8yMDc2NDU0MC5wbmc=/original/C5ws3l.png" alt="Kalimba Ranch Keeper Screenshot 3" width="334"/>
+  <img src="https://img.itch.zone/aW1hZ2UvMzQyNzQxMi8yMDc2NDUyNi5wbmc=/original/5s7LCz.png" alt="Kalimba Ranch Keeper Gameplay" width="270"/>
+  <img src="https://img.itch.zone/aW1hZ2UvMzQyNzQxMi8yMDc2NDUwMS5wbmc=/original/wmv2T3.png" alt="Kalimba Ranch Keeper Kalimba View" width="195"/>
+  <img src="https://img.itch.zone/aW1hZ2UvMzQyNzQxMi8yMDc2NDU0MC5wbmc=/original/C5ws3l.png" alt="Kalimba Ranch Keeper Farm View" width="280"/>
 </p>
 
 
